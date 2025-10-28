@@ -78,15 +78,6 @@ The model indicates a **balanced global recovery** with expanding contributions 
 
 ---
 
-## 🎛️ Dashboard Features (Interactive Filters)
-
-- **Country Selector:** Focus on specific nations.  
-- **Year Range Slider:** View GDP trends between 2020–2025.  
-- **Dynamic KPI Cards:** Instantly update CAGR, GDP totals, and forecast values.  
-- **Map View:** Visualize GDP intensity by region.  
-
----
-
 ## 💼 Use Cases
 
 This dashboard can be used by:  
